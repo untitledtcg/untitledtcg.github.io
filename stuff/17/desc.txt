@@ -1,0 +1,4 @@
+When Scornclaw wins in combat, any fighters that would be voided as a result are instead equipped to Scornclaw as if they are powerups. This fighter's strength is X where X is equal to the amount of pieces equipped to it x2.
+<br>
+<br>
+Scornclaw devours the souls of its victims, using the essence of their fear to grow more powerful.

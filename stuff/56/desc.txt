@@ -1,0 +1,6 @@
+Play Postcard on an opponent's party as a fighter with strength 0. This opponent may not claim any artifacts from you as long as they own postcard.
+<br>
+On activation, pay 5 and remove Postcard from the game.
+<br>
+<br>
+Greetings from... across the table.

@@ -1,0 +1,4 @@
+This fighter's strength is X where X is the amount of fighters in its party.
+<br>
+<br>
+The Cat Gang is a group composed of the toughest, most ruthless criminals in all of history.

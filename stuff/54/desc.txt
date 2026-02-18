@@ -1,0 +1,4 @@
+Your kickers played in combat do not get voided. This effect lasts until end of turn.
+<br>
+<br>
+Perfect for a quick getaway.

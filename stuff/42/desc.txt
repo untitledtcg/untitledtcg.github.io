@@ -1,0 +1,6 @@
+On entry, roll. This fighter's strength is X where X is the result of the roll x2. If the result is 1, void this fighter.
+<br>
+On activation, reactivate this fighter's entry ability.
+<br>
+<br>
+Bryn comes from the high mountains of L'Mroig A-Odech where they learned to fight alongside the high elves of Grens-Geald.
