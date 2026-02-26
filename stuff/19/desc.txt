@@ -1,0 +1,6 @@
+You may equip cards with a sellable item on Robin as if they are powerups. You do not need to pay the card's cost to do this.
+<br>
+On activate, void all pieces equipped to Robin with a sellable item. Earn X where X is the total item value of the voided pieces.
+<br>
+<br>
+Robin sits by the river every day, fishing until they can't fish anymore. There are people out there willing to pay a pretty penny for the finest fish...
