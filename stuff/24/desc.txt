@@ -1,0 +1,6 @@
+At the start of your turn, you may pay 1. If you do not, void this fighter.
+<br>
+This fighter's strength is X where X is equal to your spendable money.
+<br>
+<br>
+Big jumps, big scores, and big explosions!
