@@ -1,4 +1,4 @@
-On activation, pay X and this fighter's strength is X.
+On activation, pay X and this fighter's strength is X until the start of your next turn.
 <br>
 <br>
 Link cable not included.
