@@ -4,3 +4,5 @@ This fighter's strength is X where X is equal to your spendable money.
 <br>
 <br>
 Big jumps, big scores, and big explosions!
+<br>
+Play the Gato Loco game <a target="_blank" href="https://olliesharddrive.itch.io/gato-loco">Here ↗<a>
