@@ -1,0 +1,4 @@
++2 strength when attacking, -1 strength when defending.
+<br>
+<br>
+Cheeseburger and cola not included.
