@@ -1,0 +1,4 @@
+This fighter gets +2 base strength if its party contains another fighter.
+<br>
+<br>
+The sleepy fishes draw their strength from the warmth of companionship, sleeping safe and sound amongst the screams of war.
